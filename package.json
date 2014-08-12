@@ -1,0 +1,19 @@
+{
+  "name": "wolverinejs-stream",
+  "version": "0.0.1",
+  "description": "Drive for streams as output for WolverineJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/talyssonoc/wolverinejs-stream.git"
+  },
+  "keywords": [
+    "log",
+    "logging",
+    "wolverinejs"
+  ],
+  "author": {
+    "name": "talyssonoc",
+    "email": "talyssonoc@gmail.com"
+  }
+}
